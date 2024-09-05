@@ -1,0 +1,21 @@
+{
+  "name": "graphcl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "JStoGraphCL.node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/espree": "^10.1.0",
+    "@types/estree": "^1.0.5",
+    "@types/neo4j": "^2.0.6",
+    "espree": "^10.1.0",
+    "neo4j-driver": "^5.23.0",
+    "prettier": "^3.3.3",
+    "terser": "^5.31.6",
+    "typescript": "^5.5.4"
+  }
+}

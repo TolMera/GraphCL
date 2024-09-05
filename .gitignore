@@ -1,0 +1,4 @@
+neo4j/customLaunch.sh
+**/node_modules
+**/output
+**.js
